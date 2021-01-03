@@ -1,0 +1,14 @@
+dir /s /b > dir1.txt
+
+/s = recurvsive dir
+/b = bare results
+X:\n1103133\Desktop\folders\2014
+X:\n1103133\Desktop\folders\2012
+X:\n1103133\Desktop\folders\2015
+X:\n1103133\Desktop\folders\2016
+X:\n1103133\Desktop\folders\2017
+X:\n1103133\Desktop\folders\flatfilelist.txt
+X:\n1103133\Desktop\folders\2013
+X:\n1103133\Desktop\folders\2018
+
+
